@@ -1,4 +1,4 @@
-# Smart Embedded Systems and C Projects
+# C Programming Summative
 
 This repository contains five fully implemented projects demonstrating embedded systems design, shell scripting, systems programming, data structures, algorithms, and multi-threading in C.
 
