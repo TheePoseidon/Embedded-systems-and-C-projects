@@ -1,8 +1,6 @@
 # C Programming Summative
 
 
-## **Project Descriptions & How to Run**
-
 ### **1. Smart Traffic Light System**
 
 **Link:** [Tinkercad Project](https://www.tinkercad.com/things/1AH80oNS9lr-smart-traffic-control-and-monitoring-system?sharecode=--uqGRiU2WtpkinETE4Y_ZYKsL66Y_xyJLF4Qs298_I)
