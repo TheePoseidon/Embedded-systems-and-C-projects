@@ -1,22 +1,5 @@
 # C Programming Summative
 
-This repository contains five fully implemented projects demonstrating embedded systems design, shell scripting, systems programming, data structures, algorithms, and multi-threading in C.
-
----
-
----
-
-## **Project Summary**
-
-| #     | Project                               | Key Features                                                                                                                 | Status   |
-| ----- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **1** | Smart Traffic Light System            | Non-blocking `millis()` logic, adaptive green duration, button-based vehicle detection, modular design, Tinkercad-ready      | Complete |
-| **2** | Advanced System Monitoring Script     | Runs without sudo, live system metrics, user-writable logs, background monitoring, configurable thresholds, interactive menu | Complete |
-| **3** | Student Management System             | Full CRUD, binary file persistence, `qsort` sorting, linear/binary search, analytics report, strong input validation         | Complete |
-| **4** | Dynamic Math & Data Processing Engine | Function pointers, dynamic memory, file I/O, searching, sorting, dataset operations, clean terminal UI                       | Complete |
-| **5** | Multi-threaded Web Scraper            | POSIX threads, per-thread file output, simulated webpage scraping, safe thread management, no external libraries required    | Complete |
-
----
 
 ## **Project Descriptions & How to Run**
 
