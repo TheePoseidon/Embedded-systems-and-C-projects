@@ -7,11 +7,6 @@ This repository contains five fully implemented projects demonstrating embedded 
 
 ---
 
-## **Presentation Video**
-
-Watch the full project demo:
-[View on Google Drive](https://drive.google.com/file/d/1UsoAjaxjercxBkxbswuFiDOtYMlw7JJQ/view?usp=sharing)
-
 ---
 
 ## **Project Summary**
